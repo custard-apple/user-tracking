@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with User Tracking App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 It's a user details tracking functionality. It stored user's details in local storage and we can add, delete user here.\
