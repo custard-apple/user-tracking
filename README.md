@@ -15,7 +15,13 @@ There is a navbar provided with option home and add user. There is also a separa
 `import 'bootstrap/dist/css/bootstrap.min.css';`\
 `import Container from 'react-bootstrap/Container';`\
 `import Nav from 'react-bootstrap/Nav';`\
-`import Navbar from 'react-bootstrap/Navbar';`
+`import Navbar from 'react-bootstrap/Navbar';`\
+`import Button from 'react-bootstrap/Button';`\
+`import Form from 'react-bootstrap/Form';`\
+`import { useNavigate } from "react-router-dom";`\
+`import { BrowserRouter, Routes, Route } from 'react-router-dom';`\
+`import { useEffect, useState } from 'react';`\
+`import Table from 'react-bootstrap/Table';`
 
 ## Available Scripts
 
