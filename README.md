@@ -1,20 +1,21 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It's a user data tracking functionality. It stored user's details and we can add delete user here.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+It's a user details tracking functionality. It stored user's details in local storage and we can add, delete user here.\
+There is a navbar provided with option home and add user. There is also a separate button for add user.
 
 ## Package to install
 
-`npm install react-bootstrap bootstrap`
-`npm install autoprefixer@10.4.5 –save-exact`
-`npm install react-router-dom`
+`npm install react-bootstrap bootstrap`\
+`npm install autoprefixer@10.4.5 –save-exact`\
+`npm install react-router-dom`\
 
 ## Package to import
 
-`import 'bootstrap/dist/css/bootstrap.min.css';`
-`import Container from 'react-bootstrap/Container';`
-`import Nav from 'react-bootstrap/Nav';`
-`import Navbar from 'react-bootstrap/Navbar';`
+`import 'bootstrap/dist/css/bootstrap.min.css';`\
+`import Container from 'react-bootstrap/Container';`\
+`import Nav from 'react-bootstrap/Nav';`\
+`import Navbar from 'react-bootstrap/Navbar';`\
 
 ## Available Scripts
 

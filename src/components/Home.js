@@ -21,7 +21,7 @@ export const Home = (props) => {
                         </tr>
                     </thead>
                 {props.users.map((user) => (
-                    <tbody className='flex-child' key={user.id}>
+                    <tbody key={user.id}>
                         <tr>
                             <td>{user.name}</td>
                             <td>{user.email}</td>

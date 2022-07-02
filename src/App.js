@@ -5,12 +5,10 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import { Home } from './components/Home';
 import AddUser from './components/AddUser';
-//import Users from './Users';
 import { useEffect, useState } from 'react';
 
 
 function App() {
-  //const {data} = Users;
 
   let initUser;
   if(localStorage.getItem("users") === null ) {
